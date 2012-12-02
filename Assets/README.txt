@@ -10,8 +10,9 @@ Builds details:
 * Builds/ - Builds for Windows x64
 
 Assets:
-* provided by Unity Store.
 * Terrain Toolkit - http://forum.unity3d.com/threads/160711-Can-t-find-the-terrain-toolkit.?p=1099332
+* Terrain Assets - Unity Store
+
 
 My working environment:
 * Windows 8 x64
