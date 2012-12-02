@@ -23,11 +23,9 @@ TODO:
 * [DONE] Add Water
 * [DONE] Snow Effect
 * [DONE] Fog and Ambient Light
-* Steam
-* Wind Sound
-* Wind Zone
+* [DONE] Steam Effect
+* Wind Zone and Sound
 * Light Mapping
-* General Music
 * Fire Effect and Sound
 * (Optional) Collision
 * Final Build
