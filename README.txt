@@ -26,7 +26,7 @@ TODO:
 * [DONE] Steam Effect
 * [DONE] Wind Effect and Sound
 * [DONE] Fire Effect and Sound
-* Light Mapping
+* [DONE] Light Mapping
 * (Optional) Collision
 * Final Build
 
