@@ -26,10 +26,10 @@ TODO:
 * [DONE] Steam Effect
 * Wind Zone and Sound
 * Light Mapping
-* Fire Effect and Sound
+* [DONE] Fire Effect and Sound
 * (Optional) Collision
 * Final Build
 
 Known issues:
-* Trees are not using collision
+* Trees and stones are not using collision
 * [FIXED] Campfire is not using collision
