@@ -24,9 +24,9 @@ TODO:
 * [DONE] Snow Effect
 * [DONE] Fog and Ambient Light
 * [DONE] Steam Effect
-* [DONE] Wind Zone and Sound
-* Light Mapping
+* [DONE] Wind Effect and Sound
 * [DONE] Fire Effect and Sound
+* Light Mapping
 * (Optional) Collision
 * Final Build
 
