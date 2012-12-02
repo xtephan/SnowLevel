@@ -20,4 +20,5 @@ My working environment:
 * MonoDevelop
 
 Known issues:
-* TBA
+* Trees are not using collision
+* 
