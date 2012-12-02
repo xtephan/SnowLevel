@@ -19,6 +19,19 @@ My working environment:
 * Unity Pro 3.5
 * MonoDevelop
 
+TODO:
+* Add Water
+* Snow Effect
+* Fog and Ambient Light
+* Steam
+* Wind Sound
+* Wind Zone
+* Light Mapping
+* General Music
+* Fire Effect and Sound
+* (Optional) Collision
+* Final Build
+
 Known issues:
 * Trees are not using collision
-* Campfire is not using collision
+* [FIXED] Campfire is not using collision
