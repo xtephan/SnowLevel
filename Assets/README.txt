@@ -12,7 +12,7 @@ Builds details:
 Assets:
 * Terrain Toolkit - http://forum.unity3d.com/threads/160711-Can-t-find-the-terrain-toolkit.?p=1099332
 * Terrain Assets - Unity Store
-
+http://www.sharecg.com
 
 My working environment:
 * Windows 8 x64
@@ -21,4 +21,4 @@ My working environment:
 
 Known issues:
 * Trees are not using collision
-* 
+* Campfire is not using collision
