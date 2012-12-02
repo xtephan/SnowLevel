@@ -21,7 +21,7 @@ My working environment:
 
 TODO:
 * [DONE] Add Water
-* Snow Effect
+* [DONE] Snow Effect
 * Fog and Ambient Light
 * Steam
 * Wind Sound
