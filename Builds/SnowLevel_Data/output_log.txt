@@ -17,8 +17,15 @@ Platform assembly: C:\Users\xtephan\Unity\SnowLevel\Builds\SnowLevel_Data\Manage
 Loading C:\Users\xtephan\Unity\SnowLevel\Builds\SnowLevel_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\xtephan\Unity\SnowLevel\Builds\SnowLevel_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading C:\Users\xtephan\Unity\SnowLevel\Builds\SnowLevel_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.121 seconds
+- Completed reload, in  0.116 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
 <RI> Input initialized.
+Platform assembly: C:\Users\xtephan\Unity\SnowLevel\Builds\SnowLevel_Data\Managed\Boo.Lang.dll (this message is harmless)
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/Misc/Player.cpp Line: 1336)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
